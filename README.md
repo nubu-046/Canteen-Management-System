@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍽️ Canteen Management System
 
 A modern, full-stack web application for managing canteen operations with user authentication, menu management, order processing, and admin controls.
